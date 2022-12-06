@@ -45,11 +45,11 @@
 Language : Python 
 
 Libraries : 
-      - pandas    		   #To work with dataset
-      - numpy              #Math library
-      - seaborn            #Graph library that use matplot in background
-      - matplotlib.pyplot  #to plot some parameters in seaborn
-      - warnings           #to ignore warnings
+      - pandas(To work with dataset)
+      - numpy(Math library)
+      - seaborn(Graph library that use matplot in background)
+      - matplotlib.pyplot(to plot some parameters in seaborn)
+      - warnings(to ignore warnings)
 
 
 
